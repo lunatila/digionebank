@@ -6,6 +6,7 @@ class Pessoa {
     var cpf: String = "123.456.789-10"
 }
 
+
 fun main(){
     val atila = Pessoa()
 
